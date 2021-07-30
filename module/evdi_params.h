@@ -12,5 +12,6 @@
 extern unsigned int evdi_loglevel;
 extern unsigned short int evdi_initial_device_count;
 extern unsigned short int evdi_disable_texture_import;
+extern unsigned short int evdi_vmap_texture;
 
 #endif /* EVDI_PARAMS_H */
